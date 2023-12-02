@@ -1,6 +1,9 @@
 import requests
 import os
 
+
+BASE_URL = "https://adventofcode.com/2023/day/{}/input"
+
 cookies = {
     '_ga': 'GA1.2.262409860.1699862836',
     '_gid': 'GA1.2.1182568215.1699862836',
